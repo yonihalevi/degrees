@@ -1,0 +1,166 @@
+*************** iteration 0 ************
+
+calculating path from Richard Attenborough to Scott Bairstow
+duration for path was 198804.79335784912 milli-seconds
+ Number of actors is 5
+[(None, '277'), ('109390', '101'), ('90056', '331'), ('113755', '1795'), ('120512', '282')]
+1: Richard Attenborough and Dan Aykroyd starred in A Century of Cinema
+2: Dan Aykroyd and Chevy Chase starred in Spies Like Us
+3: Chevy Chase and Jonathan Taylor Thomas starred in Man of the House
+4: Jonathan Taylor Thomas and Scott Bairstow starred in Wild America
+*************** iteration 1 ************
+
+calculating path from Jamie Lee Curtis to Renée Zellweger
+duration for path was 1823.002576828003 milli-seconds
+ Number of actors is 4
+[(None, '130'), ('10665338', '339460'), ('1220888', '206'), ('3503406', '250')]
+1: Jamie Lee Curtis and Judy Greer starred in Halloween Kills
+2: Judy Greer and Keanu Reeves starred in Henry's Crime
+3: Keanu Reeves and Renée Zellweger starred in The Whole Truth
+*************** iteration 2 ************
+
+calculating path from Kate Beckinsale to Geena Davis
+duration for path was 849.0035533905029 milli-seconds
+ Number of actors is 3
+[(None, '295'), ('1496025', '1653'), ('109129', '133')]
+1: Kate Beckinsale and Stephen Rea starred in Underworld Awakening
+2: Stephen Rea and Geena Davis starred in Angie
+*************** iteration 3 ************
+
+calculating path from Val Kilmer to Ashley Judd
+duration for path was 22.003173828125 milli-seconds
+ Number of actors is 3
+[(None, '174'), ('2005164', '501'), ('2326574', '171')]
+1: Val Kilmer and Ray Liotta starred in Breathless
+2: Ray Liotta and Ashley Judd starred in The Identical
+*************** iteration 4 ************
+
+calculating path from Michael J. Fox to Susan Sarandon
+duration for path was 26.989221572875977 milli-seconds
+ Number of actors is 3
+[(None, '150'), ('112541', '172'), ('103074', '215')]
+1: Michael J. Fox and Harvey Keitel starred in Blue in the Face
+2: Harvey Keitel and Susan Sarandon starred in Thelma & Louise
+*************** iteration 5 ************
+
+calculating path from Alec Baldwin to Tommy Lee Jones
+duration for path was 11.039495468139648 milli-seconds
+ Number of actors is 3
+[(None, '285'), ('128137', '1426'), ('160797', '169')]
+1: Alec Baldwin and Ben Kingsley starred in The Confession
+2: Ben Kingsley and Tommy Lee Jones starred in Rules of Engagement
+*************** iteration 6 ************
+
+calculating path from Michael Biehn to Anne Archer
+duration for path was 2.0058155059814453 milli-seconds
+ Number of actors is 2
+[(None, '299'), ('117070', '271')]
+1: Michael Biehn and Anne Archer starred in Mojave Moon
+*************** iteration 7 ************
+
+calculating path from River Phoenix to Ann-Margret
+duration for path was 105.00741004943848 milli-seconds
+ Number of actors is 3
+[(None, '203'), ('108135', '869'), ('84590', '268')]
+1: River Phoenix and Alan Bates starred in Silent Tongue
+2: Alan Bates and Ann-Margret starred in The Return of the Soldier
+*************** iteration 8 ************
+
+calculating path from Claire Danes to Molly Ringwald
+duration for path was 1329.9612998962402 milli-seconds
+ Number of actors is 4
+[(None, '132'), ('280760', '1085'), ('119670', '1765'), ('91790', '208')]
+1: Claire Danes and Kieran Culkin starred in Igby Goes Down
+2: Kieran Culkin and Harry Dean Stanton starred in The Mighty
+3: Harry Dean Stanton and Molly Ringwald starred in Pretty in Pink
+*************** iteration 9 ************
+
+calculating path from Amanda Bearse to Dolph Lundgren
+duration for path was 178.0402660369873 milli-seconds
+ Number of actors is 4
+[(None, '294'), ('89175', '1697'), ('109546', '929'), ('4797160', '185')]
+1: Amanda Bearse and Chris Sarandon starred in Fright Night
+2: Chris Sarandon and Corbin Bernsen starred in Temptress
+3: Corbin Bernsen and Dolph Lundgren starred in Larceny
+*************** iteration 10 ************
+
+calculating path from Isabelle Adjani to Uma Thurman
+duration for path was 5.969762802124023 milli-seconds
+ Number of actors is 3
+[(None, '254'), ('94828', '367'), ('190861', '235')]
+1: Isabelle Adjani and Gérard Depardieu starred in Camille Claudel
+2: Gérard Depardieu and Uma Thurman starred in Vatel
+*************** iteration 11 ************
+
+calculating path from Susan Sarandon to Michelle Bauer
+duration for path was 110516.25180244446 milli-seconds
+ Number of actors is 4
+[(None, '215'), ('85701', '309'), ('7135152', '101146'), ('189472', '292')]
+1: Susan Sarandon and David Bowie starred in The Hunger
+2: David Bowie and Angie Bowie starred in Beside Bowie: The Mick Ronson Story
+3: Angie Bowie and Michelle Bauer starred in Demented
+*************** iteration 12 ************
+
+calculating path from Dustin Hoffman to Brooke Shields
+duration for path was 280.00402450561523 milli-seconds
+ Number of actors is 3
+[(None, '163'), ('78736', '1096'), ('96978', '222')]
+1: Dustin Hoffman and Timothy Dalton starred in Agatha
+2: Timothy Dalton and Brooke Shields starred in Brenda Starr
+*************** iteration 13 ************
+
+calculating path from Michael Biehn to Joan Severance
+duration for path was 2959.00297164917 milli-seconds
+ Number of actors is 3
+[(None, '299'), ('1935072', '448'), ('119953', '220')]
+1: Michael Biehn and Lance Henriksen starred in Alien Encounters: Superior Fan Power Since 1979
+2: Lance Henriksen and Joan Severance starred in Profile for Murder
+*************** iteration 14 ************
+
+calculating path from Isabelle Adjani to Whoopi Goldberg
+duration for path was 33.9968204498291 milli-seconds
+ Number of actors is 3
+[(None, '254'), ('94828', '367'), ('115725', '155')]
+1: Isabelle Adjani and Gérard Depardieu starred in Camille Claudel
+2: Gérard Depardieu and Whoopi Goldberg starred in Bogus
+*************** iteration 15 ************
+
+calculating path from William Baldwin to Claire Danes
+duration for path was 317.0027732849121 milli-seconds
+ Number of actors is 3
+[(None, '287'), ('114210', '491'), ('117509', '132')]
+1: William Baldwin and John Leguizamo starred in A Pyromaniac's Love Story
+2: John Leguizamo and Claire Danes starred in Romeo + Juliet
+*************** iteration 16 ************
+
+calculating path from Ethan Hawke to Brooke Shields
+duration for path was 447.9939937591553 milli-seconds
+ Number of actors is 3
+[(None, '160'), ('364045', '1687'), ('180301', '222')]
+1: Ethan Hawke and Gena Rowlands starred in Taking Lives
+2: Gena Rowlands and Brooke Shields starred in The Weekend
+*************** iteration 17 ************
+
+calculating path from Matthew McConaughey to Michelle Pfeiffer
+duration for path was 85.99734306335449 milli-seconds
+ Number of actors is 3
+[(None, '190'), ('417217', '199'), ('86250', '201')]
+1: Matthew McConaughey and Al Pacino starred in Two for the Money
+2: Al Pacino and Michelle Pfeiffer starred in Scarface
+*************** iteration 18 ************
+
+calculating path from Oliver Stone to Ron Howard
+duration for path was 0.9980201721191406 milli-seconds
+ Number of actors is 2
+[(None, '231'), ('279289', '165')]
+1: Oliver Stone and Ron Howard starred in One Vision
+*************** iteration 19 ************
+
+calculating path from Nicole Kidman to David Lean
+duration for path was 251826.86066627502 milli-seconds
+ Number of actors is 4
+[(None, '173'), ('117364', '1347'), ('74776', '32'), ('9843064', '180')]
+1: Nicole Kidman and Barbara Hershey starred in The Portrait of a Lady
+2: Barbara Hershey and Charlton Heston starred in The Last Hard Men
+3: Charlton Heston and David Lean starred in The Art of Directing: David Lean
+ total time was 569625.9243488312 millisecond. average per path was 28481.29621744156 milliseconds
