@@ -103,7 +103,7 @@ def shortest_path(source, target):
         3.d set parent to current state
         3.e enqueue all items in the frontier.
     added optimization in 3.b that in the neighbor explored is the target, stop runing the loop and jump to
-    backtracing the solution path to it
+    backtrace the solution path to it
 
     """
     frontier = QueueFrontier()  # creating queue object to achieve BFS
